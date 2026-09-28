@@ -14,5 +14,5 @@ jobs:
       - name: Register deployed artifact
         uses: cloudbees-io/register-deployed-artifact@v2
         with:
-          artifact-id: 71c61aa6-8f23-4195-b03e-5bf91c7a0f7a
+          artifact-id: 8aed3b58-86fd-45de-af7c-0647195bd3fa
           target-environment: ap-test
